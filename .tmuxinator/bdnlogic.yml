@@ -1,0 +1,8 @@
+project_name: bdnlogic
+project_root: ~/subversion/dadamobile/backend/monolith/trunk/
+tabs:
+  - editor:
+      panes:
+        - PERL5LIB=src/main/resources/perl5 vim
+  - console:
+  - logs:

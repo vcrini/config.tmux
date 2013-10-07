@@ -1,0 +1,6 @@
+project_name: bparser
+project_root: ~/subversion/bmobile/BE/cdrparser/trunk/cdrparser_billing/
+tabs:
+  - editor: PERL5LIB=src/main/resources vi
+  - console: export PATH=$PATH:$PWD/src/main/bin
+  - logs: 
