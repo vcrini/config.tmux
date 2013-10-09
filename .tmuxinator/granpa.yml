@@ -1,7 +1,7 @@
-project_name: granpa
-project_root: ~/subversion/granpa
+name: granpa
+root: ~/subversion/granpa
 pre: 
-tabs:
+windows:
   - editor: source   ~/documents/env/granpa/bin/activate && vi
   - console: source  ~/documents/env/granpa/bin/activate
   - logs: source     ~/documents/env/granpa/bin/activate

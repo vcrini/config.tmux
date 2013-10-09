@@ -1,6 +1,6 @@
-project_name: brufus
-project_root: ~/subversion/rufus/trunk/Buongiorno-Rufus/
-tabs:
+name: brufus
+root: ~/subversion/rufus/trunk/Buongiorno-Rufus/
+windows:
   - editor:
       panes:
         - PERL5LIB=src/main/resources/perl RUFUS_ROOT=target/docroot/ vi
