@@ -1,4 +1,4 @@
-name: brufus
+name: rufus
 root: ~/subversion/rufus/trunk/Buongiorno-Rufus/
 windows:
   - editor:

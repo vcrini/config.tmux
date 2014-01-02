@@ -2,6 +2,6 @@ name: granpa
 root: ~/subversion/granpa
 pre: 
 windows:
-  - editor: source   ~/documents/env/granpa/bin/activate && vi -c 'set path=granpa/trunk/granpa/**'
+  - editor: source   ~/documents/env/granpa/bin/activate && vi -c 'set path=granpa/trunk/granpa/**,granpa_spring/trunk/**'
   - console: source  ~/documents/env/granpa/bin/activate
   - logs: source     ~/documents/env/granpa/bin/activate
