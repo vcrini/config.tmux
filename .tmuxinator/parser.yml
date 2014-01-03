@@ -1,4 +1,4 @@
-name: bparser
+name: parser
 root: ~/subversion/bmobile/BE/cdrparser/trunk/cdrparser_billing/
 windows:
   - editor: PERL5LIB=src/main/resources vi
