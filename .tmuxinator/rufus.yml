@@ -3,6 +3,6 @@ root: ~/subversion/rufus/trunk/Buongiorno-Rufus/
 windows:
   - editor:
       panes:
-        - PERL5LIB=src/main/resources/perl RUFUS_ROOT=target/docroot/ vi
+        - PERL5LIB=src/main/resources/perl RUFUS_ROOT=target/docroot/ vi  -c 'set path=src/main/resources/perl/**' src/main/
   - console: export PATH=$PATH:$PWD/src/main/bin
   - logs:

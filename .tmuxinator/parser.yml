@@ -1,6 +1,6 @@
 name: parser
 root: ~/subversion/bmobile/BE/cdrparser/trunk/cdrparser_billing/
 windows:
-  - editor: PERL5LIB=src/main/resources vi
+  - editor: PERL5LIB=src/main/resources vi src/main/
   - console: export PATH=$PATH:$PWD/src/main/bin
   - logs: 
